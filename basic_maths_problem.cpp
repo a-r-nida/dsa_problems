@@ -92,5 +92,4 @@ int main(){
     int p2 = revnum(2038);
     cout<<p2<<endl;
     cout<<isPalindrome(1000000001);
-    cout<<"some changes"<<endl;
     }
